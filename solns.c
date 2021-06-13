@@ -62,5 +62,5 @@ int factors(int number, int array[])
                    break;
                }
         }
-    return count1;
+    return count;
 }
